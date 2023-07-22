@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\Library Mng System\Library Mng System\bin\Debug\net6.0\Library Mng System.exe
+C:\Users\hp\source\repos\Library Mng System\Library Mng System\bin\Debug\net6.0\Library Mng System.deps.json
+C:\Users\hp\source\repos\Library Mng System\Library Mng System\bin\Debug\net6.0\Library Mng System.runtimeconfig.json
+C:\Users\hp\source\repos\Library Mng System\Library Mng System\bin\Debug\net6.0\Library Mng System.dll
+C:\Users\hp\source\repos\Library Mng System\Library Mng System\bin\Debug\net6.0\ref\Library Mng System.dll
+C:\Users\hp\source\repos\Library Mng System\Library Mng System\bin\Debug\net6.0\Library Mng System.pdb
+C:\Users\hp\source\repos\Library Mng System\Library Mng System\obj\Debug\net6.0\Library Mng System.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Library Mng System\Library Mng System\obj\Debug\net6.0\Library Mng System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Library Mng System\Library Mng System\obj\Debug\net6.0\Library Mng System.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Library Mng System\Library Mng System\obj\Debug\net6.0\Library Mng System.AssemblyInfo.cs
+C:\Users\hp\source\repos\Library Mng System\Library Mng System\obj\Debug\net6.0\Library Mng System.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Library Mng System\Library Mng System\obj\Debug\net6.0\Library Mng System.dll
+C:\Users\hp\source\repos\Library Mng System\Library Mng System\obj\Debug\net6.0\ref\Library Mng System.dll
+C:\Users\hp\source\repos\Library Mng System\Library Mng System\obj\Debug\net6.0\Library Mng System.pdb
+C:\Users\hp\source\repos\Library Mng System\Library Mng System\obj\Debug\net6.0\Library Mng System.genruntimeconfig.cache
